@@ -1,9 +1,9 @@
-Privacy Notes
+PRIVACY NOTES
 
 Privacy Notes is a secure note-taking app developed by Group 5. It is built using JavaScript on React-Native and utilizes Firebase authentication for secure login and sign-up functionalities. 
 This README.md file provides an overview of the app's functionalities and highlights the contributions made by our team.
 
-Functionalities
+FUNCTIONALITIES
 
 Authentication 
 
@@ -25,7 +25,7 @@ Take Note However:
 
 Due to the team’s goal to ensure maximum security of our customer’s accounts, notes can only be accessed, created, edited, or deleted with Internet connectivity.
 
-Features
+FEATURES
 
 1.	Splash Screen with App Logo.
 2.	Login page (If user possess an account already).
@@ -37,7 +37,7 @@ Features
 8.	Login out button.
 
 
-Contributions
+CONTRIBUTIONS
 
 Privacy Notes was developed collaboratively by our team of 10 members, and each member made valuable contributions to different aspects of the app. Here is an overview of our contributions:
 
@@ -64,7 +64,7 @@ Privacy Notes was developed collaboratively by our team of 10 members, and each 
 
 We are proud of our collaboration and the effort put into creating Privacy Notes. We hope that users find the app intuitive, efficient, and above all, a secure platform for managing their personal notes.
 
-Installation
+INSTALLATION
 
 To use Privacy Notes, follow these steps:
 
@@ -74,7 +74,7 @@ git clone [repository URL]
 3.	Connect the app to your Firebase project by following the Firebase setup guide.
 4.	Build and run the app on your preferred Android device or Apple device by scanning the QR code in the terminal.
 
-Support and Feedback
+SUPPORT AND FEEDBACK
 
 For any issues, suggestions, or feedback related to Privacy Notes, please feel free to open an issue on our GitHub repository. We appreciate your contributions in improving the app and addressing any concerns you may have.
 
