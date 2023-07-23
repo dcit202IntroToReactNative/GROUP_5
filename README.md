@@ -42,14 +42,23 @@ Contributions
 Privacy Notes was developed collaboratively by our team of 10 members, and each member made valuable contributions to different aspects of the app. Here is an overview of our contributions:
 
 • [10958775 – Anane Maxwell Odoom]: Implemented the user authentication functionalities using Firebase, including login, sign up, and log out features.
+
 • [10990135 – Kongo Prince]: Developed the note management functionality for allowing users to add their notes.
+
 • [10986176 - Addo Daniel Ntiri]: Designed the user interface and ensured a seamless user experience throughout the app.
+
 • [10960245 - Osman Ali Nazir]: Worked on integrating Firebase database to store and retrieve user notes securely.
+
 • [10966166 - Quaye Oliver Kweku]: Implemented the forgot password functionality.
+
 • [10948541 - Ransford Oduro Takyi]: Implemented the Splash Screen Activity.
+
 • [10945608 - Phinehas Borketey Borteye]: Developed the note management functionality for allowing users to edit their notes.
+
 • [10958536 - Shalley Caleb]: Developed the note management functionality for allowing users to delete their notes.
+
 • [10954065 Tei-Deku Frank]: Created Login interface.
+
 • [10964689 Gyedu Emmanuel]: Created Register interface.
 
 
