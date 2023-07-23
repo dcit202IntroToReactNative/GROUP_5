@@ -1,18 +1,27 @@
 Privacy Notes
+
 Privacy Notes is a secure note-taking app developed by Group 5. It is built using JavaScript on React-Native and utilizes Firebase authentication for secure login and sign-up functionalities. 
 This README.md file provides an overview of the app's functionalities and highlights the contributions made by our team.
 
 Functionalities
+
 Authentication 
+
 • Login: Users can securely log into the app using their registered email and password. 
 • Sign up: New users can create an account by providing their first name, last name, email and choosing a strong password. 
 • Log out: Users can safely log out of the app, ensuring their data remains secure.
-Note Management 
+
+Note Management
+
 • Add Notes: Users can create new notes by providing a title and the content of the note. 
 • Edit Notes: Existing notes can be edited, allowing users to modify the title or content as needed. • Delete Notes: Users can remove unwanted notes from their collection, ensuring their notes remain organized.
-Take Note However: Due to the team’s goal to ensure maximum security of our customer’s accounts, notes can only be accessed, created, edited, or deleted with Internet connectivity.
+
+Take Note However:
+
+Due to the team’s goal to ensure maximum security of our customer’s accounts, notes can only be accessed, created, edited, or deleted with Internet connectivity.
 
 Features
+
 1.	Splash Screen with App Logo.
 2.	Login page (If user possess an account already).
 3.	Create Account/Sign up page.
@@ -24,7 +33,9 @@ Features
 
 
 Contributions
+
 Privacy Notes was developed collaboratively by our team of 10 members, and each member made valuable contributions to different aspects of the app. Here is an overview of our contributions:
+
 • [10958775 – Anane Maxwell Odoom]: Implemented the user authentication functionalities using Firebase, including login, sign up, and log out features.
 • [10990135 – Kongo Prince]: Developed the note management functionality for allowing users to add their notes.
 • [10986176 - Addo Daniel Ntiri]: Designed the user interface and ensured a seamless user experience throughout the app.
@@ -40,7 +51,9 @@ Privacy Notes was developed collaboratively by our team of 10 members, and each 
 We are proud of our collaboration and the effort put into creating Privacy Notes. We hope that users find the app intuitive, efficient, and above all, a secure platform for managing their personal notes.
 
 Installation
+
 To use Privacy Notes, follow these steps:
+
 1.	Clone the repository from GitHub using the following command:
 git clone [repository URL]
 2.	Open the project in VisualStudio.
@@ -48,5 +61,6 @@ git clone [repository URL]
 4.	Build and run the app on your preferred Android device or Apple device by scanning the QR code in the terminal.
 
 Support and Feedback
+
 For any issues, suggestions, or feedback related to Privacy Notes, please feel free to open an issue on our GitHub repository. We appreciate your contributions in improving the app and addressing any concerns you may have.
 
