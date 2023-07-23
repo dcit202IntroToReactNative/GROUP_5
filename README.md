@@ -7,13 +7,15 @@ Functionalities
 
 Authentication 
 
-• Login: Users can securely log into the app using their registered email and password. 
-• Sign up: New users can create an account by providing their first name, last name, email and choosing a strong password. 
+• Login: Users can securely log into the app using their registered email and password.
+
+• Sign up: New users can create an account by providing their first name, last name, email and choosing a strong password.
+
 • Log out: Users can safely log out of the app, ensuring their data remains secure.
 
 Note Management
 
-• Add Notes: Users can create new notes by providing a title and the content of the note. 
+• Add Notes: Users can create new notes by providing a title and the content of the note.
 • Edit Notes: Existing notes can be edited, allowing users to modify the title or content as needed. • Delete Notes: Users can remove unwanted notes from their collection, ensuring their notes remain organized.
 
 Take Note However:
