@@ -45,7 +45,7 @@ To use Privacy Notes, follow these steps:
 git clone [repository URL]
 2.	Open the project in VisualStudio.
 3.	Connect the app to your Firebase project by following the Firebase setup guide.
-4.	Build and run the app on your preferred Android device or emulator.
+4.	Build and run the app on your preferred Android device or by scanning the qr code in the terminal.
 
 Support and Feedback
 For any issues, suggestions, or feedback related to Privacy Notes, please feel free to open an issue on our GitHub repository. We appreciate your contributions in improving the app and addressing any concerns you may have.
