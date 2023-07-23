@@ -16,7 +16,10 @@ Authentication
 Note Management
 
 • Add Notes: Users can create new notes by providing a title and the content of the note.
-• Edit Notes: Existing notes can be edited, allowing users to modify the title or content as needed. • Delete Notes: Users can remove unwanted notes from their collection, ensuring their notes remain organized.
+
+• Edit Notes: Existing notes can be edited, allowing users to modify the title or content as needed.
+
+• Delete Notes: Users can remove unwanted notes from their collection, ensuring their notes remain organized.
 
 Take Note However:
 
