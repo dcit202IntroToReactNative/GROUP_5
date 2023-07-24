@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/iphone-splash-preview-dark.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fffff"
     },
     "assetBundlePatterns": [
       "**/*"
