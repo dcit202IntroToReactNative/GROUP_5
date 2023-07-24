@@ -6,7 +6,7 @@ import React, {useState, useEffect} from 'react';
 import { firebase } from './config';
 
 import Login from "./src/Login";
-import Registration from "./src/Registration"
+import Registration from "./src/Registration";
 import Dashboard from "./src/Dashboard";
 import Header from "./components/header";
 import NoteAdd from "./src/NoteAdd";
