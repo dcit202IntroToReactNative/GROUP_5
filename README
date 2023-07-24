@@ -18,6 +18,7 @@ Authentication
 
 
 
+
 Note Management
 
 • Add Notes: Users can create new notes by providing a title and the content of the note.
@@ -43,6 +44,7 @@ Due to the team’s goal to ensure maximum security of our customer’s accounts
 6.	Edit Notes Page.
 7.	Delete Notes. 
 8.	Login out button.
+9. Forgot password.
 
 
 
